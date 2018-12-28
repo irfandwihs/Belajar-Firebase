@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21369944337",
+    "firebase_url": "https://freshid-fd5ac.firebaseio.com",
+    "project_id": "freshid-fd5ac",
+    "storage_bucket": "freshid-fd5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21369944337:android:caf88f9b26c72f24",
+        "android_client_info": {
+          "package_name": "com.scriptkiddy.freshid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21369944337-362nfl7hctfdn0ap03fghiecout565q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptkiddy.freshid",
+            "certificate_hash": "b10297e1e90266fe8f42476cf776ee06c07c8f52"
+          }
+        },
+        {
+          "client_id": "21369944337-5ro6lsvc5ra919memaigve9que4meb8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDuP63gatHpmawN41AKGf0y9EUHFn3gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21369944337-5ro6lsvc5ra919memaigve9que4meb8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
